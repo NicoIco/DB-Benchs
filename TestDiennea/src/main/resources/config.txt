@@ -1,0 +1,1 @@
+com.microsoft.sqlserver.jdbc.SQLServerDriver;127.0.0.1;1433;testlog1;psw;

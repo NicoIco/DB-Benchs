@@ -1,0 +1,9 @@
+CREATE TABLE Tpersona(
+id int NOT NULL IDENTITY(1,1) PRIMARY KEY,
+nome varchar(255) NOT NULL,
+cognome varchar(255) NOT NULL,
+sesso varchar(1),
+indirizzo varchar(255),
+citta varchar(255),
+);
+
